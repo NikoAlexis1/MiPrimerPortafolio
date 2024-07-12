@@ -11988,4 +11988,10 @@ textarea.form-control-lg {
 }
 .fa-vuejs {
   color: #41b883;
+}
+
+@media (min-width: 768px) {
+  button {
+    width: 40%;
+  }
 }/*# sourceMappingURL=main.css.map */
